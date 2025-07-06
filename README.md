@@ -5,8 +5,9 @@ Un mini-jeu **Space Invader** inspiré des classiques d'arcade, développé en C
 ---
 ## Photo
 
+![schemareal](https://github.com/user-attachments/assets/761a1152-c8e7-42f1-b1f3-89de45503c2d)
 
-![Uploading schemareal.jpg…]()
+
 
 ## 🕹️ Fonctionnalités
 
