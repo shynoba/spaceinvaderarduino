@@ -68,3 +68,41 @@ Un mini-jeu **Space Invader** inspiré des classiques d'arcade, développé en C
 ## 🎮 Utilisation
 
 1. Au démarrage, le LCD affiche :
+Space Invader
+Move to play!
+
+Et un "S" s'affiche sur le MAX7219.
+2. Bouge le joystick sur l'axe X pour démarrer.
+3. Déplace ton vaisseau, évite les aliens, tire automatiquement.
+4. Le score est affiché en temps réel sur le LCD.
+5. Si un alien te touche → Game Over → retour à l'écran d'accueil.
+
+---
+
+## 📷 Aperçu (optionnel)
+
+*Ajoute ici une ou plusieurs photos du montage, ou une vidéo gif de la matrice en action.*
+
+---
+
+## 🚀 Améliorations futures (idées)
+
+- Ajouter un bouton pour tirer manuellement
+- Ajouter plusieurs niveaux de difficulté (vitesse des aliens)
+- Affichage du score final pendant 3 secondes avant le restart
+- Intégrer un buzzer pour les effets sonores
+
+---
+
+## 👤 Auteur
+
+- **Pseudo GitHub** : [TonNom](https://github.com/TonPseudo)
+- Étudiant en L1 Maths/Électronique à La Sorbonne
+
+---
+
+## 📚 Licence
+
+Projet open-source sous licence MIT. Utilisation, modification et partage autorisés.
+
+
