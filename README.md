@@ -26,7 +26,7 @@ Un mini-jeu **Space Invader** inspiré des classiques d'arcade, développé en C
 | Joystick analogique | 1     |
 | Matrice MAX7219 (8x8) | 1   |
 | Écran LCD1602 (sans I2C) | 1 |
-| Résistances, fils, breadboard | ✓ |
+| Résistances 220 ohm, fils, breadboard | ✓ |
 
 ---
 
@@ -35,19 +35,19 @@ Un mini-jeu **Space Invader** inspiré des classiques d'arcade, développé en C
 ### MAX7219 (LedControl)
 | Module | Arduino |
 |--------|---------|
-| DIN    | Pin 2   |
-| CLK    | Pin 3   |
-| CS     | Pin 4   |
+| DIN    | Pin 11  |
+| CLK    | Pin 13  |
+| CS     | Pin 10  |
 
 ### LCD1602 (LiquidCrystal)
 | LCD Pin | Arduino |
 |---------|---------|
-| RS      | Pin 7   |
-| E       | Pin 8   |
-| D4      | Pin 9   |
-| D5      | Pin 10  |
-| D6      | Pin 11  |
-| D7      | Pin 12  |
+| RS      | Pin 8   |
+| E       | Pin 7   |
+| D4      | Pin 6   |
+| D5      | Pin 5   |
+| D6      | Pin 4   |
+| D7      | Pin 3   |
 
 ### Joystick
 | Joystick | Arduino |
