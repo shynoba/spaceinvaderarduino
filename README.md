@@ -92,4 +92,4 @@ Et un "S" s'affiche sur le MAX7219.
 ## 👤 Auteur
 
 - **Auteur** : [Shyno](https://github.com/shynoba)
-- Étudiant en L1 Maths/Électronique à La Sorbonne
+- Étudiant en L2 Maths/Électronique à La Sorbonne
