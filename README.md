@@ -78,11 +78,6 @@ Et un "S" s'affiche sur le MAX7219.
 5. Si un alien te touche → Game Over → retour à l'écran d'accueil.
 
 ---
-
-## 📷 Aperçu (optionnel)
-
-*Ajoute ici une ou plusieurs photos du montage, ou une vidéo gif de la matrice en action.*
-
 ---
 
 ## 🚀 Améliorations futures (idées)
@@ -96,13 +91,5 @@ Et un "S" s'affiche sur le MAX7219.
 
 ## 👤 Auteur
 
-- **Pseudo GitHub** : [TonNom](https://github.com/TonPseudo)
+- **Shyno** : [TonNom](https://github.com/shynoba)
 - Étudiant en L1 Maths/Électronique à La Sorbonne
-
----
-
-## 📚 Licence
-
-Projet open-source sous licence MIT. Utilisation, modification et partage autorisés.
-
-
