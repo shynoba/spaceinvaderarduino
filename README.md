@@ -91,5 +91,5 @@ Et un "S" s'affiche sur le MAX7219.
 
 ## 👤 Auteur
 
-- **Shyno** : [TonNom](https://github.com/shynoba)
+- **Shyno** : [Shyno](https://github.com/shynoba)
 - Étudiant en L1 Maths/Électronique à La Sorbonne
