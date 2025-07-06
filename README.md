@@ -3,6 +3,9 @@
 Un mini-jeu **Space Invader** inspiré des classiques d'arcade, développé en C++ pour Arduino UNO. Le jeu utilise une matrice **LED 8x8 MAX7219**, un **joystick analogique**, et un **écran LCD1602** (sans I2C) pour afficher les scores et les instructions.
 
 ---
+## Photo
+![Projet 4 SpaceInvador](https://github.com/user-attachments/assets/92fc74f9-2f7d-4f2a-b826-9b9cc0349de9)
+
 
 ## 🕹️ Fonctionnalités
 
