@@ -88,8 +88,3 @@ Et un "S" s'affiche sur le MAX7219.
 - Intégrer un buzzer pour les effets sonores
 
 ---
-
-## 👤 Auteur
-
-- **Auteur** : [Shyno](https://github.com/shynoba)
-- Étudiant en L2 Maths/Électronique à La Sorbonne
