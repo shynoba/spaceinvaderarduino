@@ -92,5 +92,5 @@ Et un "S" s'affiche sur le MAX7219.
 - Ajouter plusieurs niveaux de difficulté (vitesse des aliens)
 - Affichage du score final pendant 3 secondes avant le restart
 - Intégrer un buzzer pour les effets sonores
-
+;
 ---
